@@ -17,3 +17,6 @@ td{
     font-size: 60px;
     text-align: center;
 }
+tr/td:nth-child(even){
+    background: chocolate;
+}
