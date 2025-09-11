@@ -1,1 +1,3 @@
-# ASSIGNMENT 1  for Server Side Dev class
+# ASSIGNMENT 1  for SERVER SIDE DEVELOPMEMENT 
+
+Recreating the classic game of Chess.
